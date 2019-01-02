@@ -12,3 +12,5 @@ impl Solution {
         num
     }
 }
+
+pub struct Solution;

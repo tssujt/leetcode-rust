@@ -4,6 +4,7 @@ pub mod happy_number;
 pub mod jewels_and_stones;
 pub mod kth_largest_element_in_an_array;
 pub mod longest_common_prefix;
+pub mod majority_element;
 pub mod remove_element;
 pub mod search_insert_position;
 pub mod two_sum;

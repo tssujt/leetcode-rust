@@ -14,6 +14,7 @@ pub mod longest_common_prefix;
 pub mod majority_element;
 pub mod merge_two_sorted_list;
 pub mod remove_element;
+pub mod reverse_string_ii;
 pub mod search_insert_position;
 pub mod two_sum;
 pub mod valid_palindrome;

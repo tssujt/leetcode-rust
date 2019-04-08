@@ -14,6 +14,7 @@ pub mod kth_largest_element_in_an_array;
 pub mod longest_common_prefix;
 pub mod majority_element;
 pub mod merge_two_sorted_list;
+pub mod min_stack;
 pub mod remove_element;
 pub mod reverse_string_ii;
 pub mod search_insert_position;

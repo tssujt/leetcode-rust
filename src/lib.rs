@@ -1,6 +1,7 @@
 pub mod best_time_to_buy_and_sell_stock;
 pub mod best_time_to_buy_and_sell_stock_ii;
 pub mod happy_number;
+pub mod house_robber;
 pub mod jewels_and_stones;
 pub mod kth_largest_element_in_an_array;
 pub mod longest_common_prefix;

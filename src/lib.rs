@@ -14,6 +14,7 @@ pub mod jewels_and_stones;
 pub mod kth_largest_element_in_an_array;
 pub mod longest_common_prefix;
 pub mod majority_element;
+pub mod max_subarray;
 pub mod merge_two_sorted_list;
 pub mod min_stack;
 pub mod remove_element;

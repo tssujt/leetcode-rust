@@ -1,6 +1,8 @@
 pub mod add_strings;
+pub mod balanced_binary_tree;
 pub mod best_time_to_buy_and_sell_stock;
 pub mod best_time_to_buy_and_sell_stock_ii;
+pub mod binary_watch;
 pub mod count_primes;
 pub mod factorial_trailing_zeroes;
 pub mod happy_number;

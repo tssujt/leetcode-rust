@@ -1,12 +1,15 @@
+pub mod add_strings;
 pub mod best_time_to_buy_and_sell_stock;
 pub mod best_time_to_buy_and_sell_stock_ii;
 pub mod count_primes;
+pub mod factorial_trailing_zeroes;
 pub mod happy_number;
 pub mod house_robber;
 pub mod jewels_and_stones;
 pub mod kth_largest_element_in_an_array;
 pub mod longest_common_prefix;
 pub mod majority_element;
+pub mod merge_two_sorted_list;
 pub mod remove_element;
 pub mod search_insert_position;
 pub mod two_sum;

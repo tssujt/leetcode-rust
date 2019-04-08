@@ -19,6 +19,7 @@ pub mod merge_two_sorted_list;
 pub mod min_stack;
 pub mod move_zeroes;
 pub mod remove_element;
+pub mod reverse_linked_list;
 pub mod reverse_string_ii;
 pub mod search_insert_position;
 pub mod string_compression;

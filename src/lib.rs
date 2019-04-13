@@ -18,6 +18,7 @@ pub mod max_subarray;
 pub mod merge_two_sorted_list;
 pub mod min_stack;
 pub mod move_zeroes;
+pub mod pascals_triangle;
 pub mod remove_element;
 pub mod reverse_linked_list;
 pub mod reverse_string_ii;

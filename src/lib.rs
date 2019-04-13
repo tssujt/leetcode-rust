@@ -20,6 +20,7 @@ pub mod min_stack;
 pub mod move_zeroes;
 pub mod pascals_triangle;
 pub mod remove_element;
+pub mod reshape_the_matrix;
 pub mod reverse_linked_list;
 pub mod reverse_string_ii;
 pub mod search_insert_position;

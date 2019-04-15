@@ -17,6 +17,7 @@ pub mod longest_common_prefix;
 pub mod majority_element;
 pub mod max_subarray;
 pub mod merge_two_sorted_list;
+pub mod min_cost_climbing_stairs;
 pub mod min_stack;
 pub mod move_zeroes;
 pub mod pascals_triangle;

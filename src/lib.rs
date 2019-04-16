@@ -13,6 +13,7 @@ pub mod happy_number;
 pub mod house_robber;
 pub mod jewels_and_stones;
 pub mod kth_largest_element_in_an_array;
+pub mod letter_case_permutation;
 pub mod longest_common_prefix;
 pub mod majority_element;
 pub mod max_subarray;

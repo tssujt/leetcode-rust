@@ -9,6 +9,7 @@ pub mod contains_duplicate_ii;
 pub mod convert_sorted_array_to_binary_search_tree;
 pub mod count_primes;
 pub mod factorial_trailing_zeroes;
+pub mod teemo_attacking;
 pub mod happy_number;
 pub mod house_robber;
 pub mod jewels_and_stones;
